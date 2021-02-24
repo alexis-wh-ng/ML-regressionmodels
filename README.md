@@ -1,4 +1,4 @@
-Assignment 1
+CoE 4SL3: Assignment 1
 
 Part 1:
 Several regression models have been compared to illustrate the trade-off between overfitting and underfitting.
